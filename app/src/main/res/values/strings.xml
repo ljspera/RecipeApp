@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="dishes">Dishes</string>
+    <string name="appetizer">Appetizer</string>
+    <string name="entree">Entree</string>
+    <string name="dessert">Dessert</string>
+    <string name="random">Random</string>
+    <string name="choose_your_dish_level">Choose your Dish level:</string>
+    <string name="selection">Selection</string>
+    <string name="select">Select</string>
+    <string name="recipe_app">Recipe App</string>
+    <string name="italian">Italian</string>
+    <string name="what_are_you_in_the_mood_for">What are you in the mood for?</string>
+    <string name="chinese">Chinese</string>
+    <string name="mexican">Mexican</string>
+    <string name="indian">Indian</string>
+    <string name="thai">Thai</string>
+    <string name="random2">Random</string>
+    <string name="select2">Select</string>
+    <string name="selection2">Selection</string>
+    <string name="choose_your_dish">Choose your Dish:</string>
+</resources>
